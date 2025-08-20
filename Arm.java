@@ -16,7 +16,7 @@ class Armstrong{
 		}
 	}
 	public static void main(String[] args){
-		Arm a = new Arm();
+		Armstrong a = new Armstrong();
 		a.logic();
 	}
 }

@@ -1,6 +1,4 @@
 class Recursion{
-	int sum = 0;
-
 	public int sum(int n){
 	if(n == 1){
 	return 1;
