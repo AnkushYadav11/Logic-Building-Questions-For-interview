@@ -1,4 +1,4 @@
-class Arm{
+class Armstrong{
 	int num = 152;
 	int sum = 0;
 	int no = num;
