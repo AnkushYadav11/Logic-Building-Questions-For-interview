@@ -1,17 +1,23 @@
+import java.util.*;
 class Acending{
 	public static void main(String[] args){
-		int[] arr = {2,5,1,4,3};
-		for(int i=0;i<arr.length-1;i++){
-			for(int j=0;j<arr.length-1-i;j++){
-				if(arr[j] > arr[j+1]){
-					int temp = arr[j];
-					arr[j] = arr[j+1];
-					arr[j+1] = temp;
+		int arr[] = {1,5,3,4,2};
+		System.out.println("...Before Sorting...");
+		for(int n=0;n<arr.length;n++){
+			System.out.print(arr[n] + " ");
+		}
+		for(int i=0;i<arr.length;i++){
+			for(int j=i+1;j<arr.length;j++){
+				if(arr[i]>arr[j]){
+				int temp = arr[i];
+				arr[i] = arr[j];
+				arr[j] = temp;
 				}
 			}
 		}
-		for(int n : arr){
-			System.out.println(n + " ");
+		System.out.println("\n...After Sorting...");
+		for(int a=0;a<arr.length;a++){
+			System.out.print(arr[a] +" ");
 		}
 	}
 }
