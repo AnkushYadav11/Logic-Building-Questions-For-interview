@@ -25,7 +25,7 @@ public class Rotatearray {
                 arr[i] = arr[i + 1];
             }
             arr[arr.length - 1] = n;
-            System.out.println("Rotated Array " + Arrays.toString(arr));
+            System.out.println("Rotated Array to Left " + Arrays.toString(arr));
         }
     }
 }
