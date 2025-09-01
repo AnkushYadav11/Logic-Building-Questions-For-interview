@@ -1,5 +1,9 @@
 # Questions
-! (Questions/1.jpg)
-! (Questions/2.jpg)
-! (Questions/3.jpg)
-! (Questions/4.jpg)
+<img src="Questions/1.jpg" alt="Alt text" width="300" height="200" />
+
+<img src="Questions/2.jpg" alt="Alt text" width="300" height="200" />
+
+<img src="Questions/3.jpg" alt="Alt text" width="300" height="200" />
+
+<img src="Questions/4.jpg" alt="Alt text" width="300" height="200" />
+
