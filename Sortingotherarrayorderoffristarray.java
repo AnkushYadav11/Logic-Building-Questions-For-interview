@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Sortingotherarrayorderoffristarray {
     public static void main(String[] args) {
         int[] arr1 = {1,2,3,4,5};
-        int[] arr2 = {5,4,3,2,1};
+        int[] arr2 = {4,5,3,2,1};
         for(int i=0; i<arr1.length;i++){
             if(arr1[i] != arr2[i]){
                 for(int x=0;x<arr2.length;x++){
