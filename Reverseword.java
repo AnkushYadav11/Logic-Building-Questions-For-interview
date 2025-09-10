@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Reverseword{
     public static void reverse(char[] c,int start,int end){
-        for(int i=start ;i<end;i++){ // i = 0-4 =5 , 6-9
+        for(int i=start ;i<end;i++){
             for(int j=i;j<end;j++){
                 char temp = c[i];
                 c[i] = c[j];
