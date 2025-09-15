@@ -1,0 +1,560 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Acending",
+            "request": "launch",
+            "mainClass": "Acending",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "Armstrong",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Avgofnumber",
+            "request": "launch",
+            "mainClass": "Avgofnumber",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Binary",
+            "request": "launch",
+            "mainClass": "Binary",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Border",
+            "request": "launch",
+            "mainClass": "Border",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Camalcase",
+            "request": "launch",
+            "mainClass": "Camalcase",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Cap",
+            "request": "launch",
+            "mainClass": "Cap",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Comparestring",
+            "request": "launch",
+            "mainClass": "Comparestring",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Conofarray",
+            "request": "launch",
+            "mainClass": "Conofarray",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Ctofftoc",
+            "request": "launch",
+            "mainClass": "Ctofftoc",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Decimal",
+            "request": "launch",
+            "mainClass": "Decimal",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Digitchecker",
+            "request": "launch",
+            "mainClass": "Digitchecker",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Duplicate",
+            "request": "launch",
+            "mainClass": "Duplicate",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Fabonic",
+            "request": "launch",
+            "mainClass": "Fabonic",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Fact",
+            "request": "launch",
+            "mainClass": "Fact",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Factofnumber",
+            "request": "launch",
+            "mainClass": "Factofnumber",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Findnum",
+            "request": "launch",
+            "mainClass": "Findnum",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Half",
+            "request": "launch",
+            "mainClass": "Half",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Largestinarray",
+            "request": "launch",
+            "mainClass": "Largestinarray",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Lcm",
+            "request": "launch",
+            "mainClass": "Lcm",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Leapyear",
+            "request": "launch",
+            "mainClass": "Leapyear",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Lowertriangular",
+            "request": "launch",
+            "mainClass": "Lowertriangular",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Matrix",
+            "request": "launch",
+            "mainClass": "Matrix",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Maxmin2d",
+            "request": "launch",
+            "mainClass": "Maxmin2d",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Missingnumber",
+            "request": "launch",
+            "mainClass": "Missingnumber",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "N",
+            "request": "launch",
+            "mainClass": "N",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Natural",
+            "request": "launch",
+            "mainClass": "Natural",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Nonrepeting",
+            "request": "launch",
+            "mainClass": "Nonrepeting",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Palindrom",
+            "request": "launch",
+            "mainClass": "Palindrom",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Parentheses",
+            "request": "launch",
+            "mainClass": "Parentheses",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Perfect",
+            "request": "launch",
+            "mainClass": "Perfect",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "Power",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Productofarray",
+            "request": "launch",
+            "mainClass": "Productofarray",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Removespaces",
+            "request": "launch",
+            "mainClass": "Removespaces",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Repeting",
+            "request": "launch",
+            "mainClass": "Repeting",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Repetingchar",
+            "request": "launch",
+            "mainClass": "Repetingchar",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Repetingstring",
+            "request": "launch",
+            "mainClass": "Repetingstring",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Replacingword",
+            "request": "launch",
+            "mainClass": "Replacingword",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Reversedigits",
+            "request": "launch",
+            "mainClass": "Reversedigits",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Reverseword",
+            "request": "launch",
+            "mainClass": "Reverseword",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Rightrotation",
+            "request": "launch",
+            "mainClass": "Rightrotation",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Rotatearray",
+            "request": "launch",
+            "mainClass": "Rotatearray",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Search",
+            "request": "launch",
+            "mainClass": "Search",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Sec",
+            "request": "launch",
+            "mainClass": "Sec",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Smallesinarray",
+            "request": "launch",
+            "mainClass": "Smallesinarray",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Smallinleft",
+            "request": "launch",
+            "mainClass": "Smallinleft",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Sortingnum",
+            "request": "launch",
+            "mainClass": "Sortingnum",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Sortingotherarrayorderoffristarray",
+            "request": "launch",
+            "mainClass": "Sortingotherarrayorderoffristarray",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Splitstring",
+            "request": "launch",
+            "mainClass": "Splitstring",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Sqrt",
+            "request": "launch",
+            "mainClass": "Sqrt",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Stringanagram",
+            "request": "launch",
+            "mainClass": "Stringanagram",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Stringchecker",
+            "request": "launch",
+            "mainClass": "Stringchecker",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Stringpelindrom",
+            "request": "launch",
+            "mainClass": "Stringpelindrom",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Strong",
+            "request": "launch",
+            "mainClass": "Strong",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Sumof",
+            "request": "launch",
+            "mainClass": "Sumof",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Sumofarray",
+            "request": "launch",
+            "mainClass": "Sumofarray",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Sumofdigitsinstring",
+            "request": "launch",
+            "mainClass": "Sumofdigitsinstring",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Sumofeven",
+            "request": "launch",
+            "mainClass": "Sumofeven",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Sumofgivennumber",
+            "request": "launch",
+            "mainClass": "Sumofgivennumber",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Sumofodd",
+            "request": "launch",
+            "mainClass": "Sumofodd",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Sumofprime",
+            "request": "launch",
+            "mainClass": "Sumofprime",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Sumoftwomatrix",
+            "request": "launch",
+            "mainClass": "Sumoftwomatrix",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Table",
+            "request": "launch",
+            "mainClass": "Table",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Tables",
+            "request": "launch",
+            "mainClass": "Tables",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Transpose",
+            "request": "launch",
+            "mainClass": "Transpose",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Twoarrays",
+            "request": "launch",
+            "mainClass": "Twoarrays",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Twoarraytoonearray",
+            "request": "launch",
+            "mainClass": "Twoarraytoonearray",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Uppercase",
+            "request": "launch",
+            "mainClass": "Uppercase",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Uppertriangular",
+            "request": "launch",
+            "mainClass": "Uppertriangular",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Vovelsinstring",
+            "request": "launch",
+            "mainClass": "Vovelsinstring",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Wordcounter",
+            "request": "launch",
+            "mainClass": "Wordcounter",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Years",
+            "request": "launch",
+            "mainClass": "Years",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        },
+        {
+            "type": "java",
+            "name": "Zerotoend",
+            "request": "launch",
+            "mainClass": "Zerotoend",
+            "projectName": "Logic-Building-Questions-For-interview_a9b61279"
+        }
+    ]
+}
