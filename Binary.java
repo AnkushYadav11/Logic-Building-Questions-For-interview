@@ -5,7 +5,7 @@ class Binary{
 	String binary = " ";
 	String octal = " ";
 
-//Decimal To Octal Covertion
+//Decimal To Binary Covertion
 	public void binary(){
 	while(num1!=0){
 		int rem = num1 % 2;
